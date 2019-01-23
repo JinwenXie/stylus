@@ -1,5 +1,4 @@
 ## 安装
-    cnpm install stylus -g
-
+    cnpm install stylus -
 ## 编译
     stylus -w style.styl -o style.css
