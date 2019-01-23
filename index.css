@@ -1,0 +1,10 @@
+.list-item span,
+.text-box span {
+  background-color: #add8e6;
+  margin: add(10);
+  padding: add(10, 5);
+}
+.list-item:hover,
+.text-box:hover {
+  background-color: #b0e0e6;
+}
