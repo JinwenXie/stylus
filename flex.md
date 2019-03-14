@@ -2,17 +2,17 @@
 
   ### 1.flex-direction: 用于指定flex主轴的方向，继而指定flex子项在flex容器中的位置
 
-    - row: 默认值，水平方向从左到有排列
-    - row-reverse：与row相反
-    - column：垂直方向上从上到下排列
-    -column-reverse： 与column相反
+    row: 默认值，水平方向从左到有排列
+    row-reverse：与row相反
+    column：垂直方向上从上到下排列
+    column-reverse： 与column相反
 
   ### 2.flex-wrap：用于指定flex子项是否换行
     nowrap： 默认值，表示不换行，flex子项可能会溢出
     wrap：换行，溢出的子项会换到下一行
     wrap-reverse： 反方向换行
 
-  3.flex-flow：复合属性，是flex-direction与flex-wrap的简写
+   ### 3.flex-flow：复合属性，是flex-direction与flex-wrap的简写
 
   4.justify-content：用于指定主轴（水平方向）上子项的对齐方式
     flex-start: 默认值，与行的起始位置对齐
