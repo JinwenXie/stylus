@@ -52,4 +52,4 @@
 
 ###  flex-base： 基本用不上的东西
 
-align-self： 基本等同于父项align-items
+### align-self： 基本等同于父项align-items
