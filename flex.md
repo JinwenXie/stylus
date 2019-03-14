@@ -14,7 +14,7 @@
 
    ### 3.flex-flow：复合属性，是flex-direction与flex-wrap的简写
 
-  4.justify-content：用于指定主轴（水平方向）上子项的对齐方式
+   ### 4.justify-content：用于指定主轴（水平方向）上子项的对齐方式
     flex-start: 默认值，与行的起始位置对齐
     flex-end： 与行的结束位置对齐
     center： 与行的中间对齐
