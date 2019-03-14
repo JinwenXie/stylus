@@ -1,4 +1,4 @@
-flex作用于父级的6个属性：
+## flex作用于父级的6个属性：
 
   1.flex-direction: 用于指定flex主轴的方向，继而指定flex子项在flex容器中的位置
     row: 默认值，水平方向从左到有排列
